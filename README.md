@@ -25,7 +25,7 @@
 
 ### Steps for running project
 ```bash
-git clone https://github.com/teja/Income-Expense-Tracker.git
+git clone https://github.com/bhargavi/Income-Expense-Tracker.git
 cd Income-Expense-Tracker
 cp .env.example .env
 ```
